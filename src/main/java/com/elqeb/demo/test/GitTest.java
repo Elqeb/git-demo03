@@ -7,5 +7,6 @@ package com.elqeb.demo.test;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("test");
+        System.out.println("github push  test");
     }
 }
